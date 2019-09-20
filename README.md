@@ -28,7 +28,7 @@
 ```
 5. run time synchronization server using command:
 ```console
-	foo@bar:~/TimeSynLinux/bin $ ./TimeSync server 5003 
+	foo@bar:~/TimeSynLinux/bin $ ./TimeSync server 5001
 ```
 
 ![screenshot][screenshot]
